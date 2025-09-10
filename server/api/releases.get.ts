@@ -1,4 +1,3 @@
-import type { MDCRoot } from '@nuxtjs/mdc'
 import { parseMarkdown } from '@nuxtjs/mdc/runtime'
 
 const REPOS = [
@@ -13,14 +12,6 @@ const REPOS = [
   'nuxt/eslint',
   'nuxt/icon'
 ]
-
-type Release = {
-  url: string
-  tag: string
-  title: string
-  date: string
-  body: MDCRoot
-}
 
 export default defineCachedEventHandler(async () => {
   console.log('fetching releases')
