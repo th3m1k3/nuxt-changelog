@@ -18,10 +18,7 @@ useSeoMeta({
   title,
   description,
   ogTitle: title,
-  ogDescription: description,
-  ogImage: 'https://ui4.nuxt.com/assets/templates/nuxt/changelog-light.png',
-  twitterImage: 'https://ui4.nuxt.com/assets/templates/nuxt/changelog-light.png',
-  twitterCard: 'summary_large_image'
+  ogDescription: description
 })
 </script>
 
