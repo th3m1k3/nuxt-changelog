@@ -30,17 +30,17 @@ useSeoMeta({
         :description="description"
         orientation="vertical"
         :links="[{
-          label: 'Documentation',
-          icon: 'i-lucide-book-open',
+          label: 'Nuxt Website',
+          icon: 'i-simple-icons-nuxt',
           variant: 'ghost',
           size: 'md',
           to: 'https://nuxt.com'
         }, {
-          label: 'GitHub',
+          label: 'Source Code',
           icon: 'i-simple-icons-github',
           variant: 'ghost',
           size: 'md',
-          to: 'https://github.com/nuxt',
+          to: 'https://github.com/atinux/nuxt-changelog',
           target: '_blank'
         }]"
         :ui="{

@@ -7,14 +7,14 @@ export default defineNuxtPlugin(() => {
   onNuxtReady(() => {
     inject({
       disableAutoTrack: true,
-      framework: 'nuxt',
+      framework: 'nuxt'
     })
   })
   // On navigation to a new page
   nuxtApp.hooks.hook('page:finish', () => {
     pageview({
       route: route.matched[0]?.path || route.path,
-      path: route.path,
+      path: route.path
     })
   })
 })
