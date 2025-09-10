@@ -9,6 +9,10 @@ export default defineNuxtPlugin(() => {
       disableAutoTrack: true,
       framework: 'nuxt'
     })
+    pageview({
+      route: route.matched[0]?.path || route.path,
+      path: route.path
+    })
   })
   // On navigation to a new page
   nuxtApp.hooks.hook('page:finish', () => {
