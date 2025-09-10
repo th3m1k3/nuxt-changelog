@@ -28,7 +28,7 @@ export default defineNuxtConfig({
   },
 
   routeRules: {
-    '/**': { swr: 5 * 60 }
+    '/': { isr: 60 }
   },
 
   compatibilityDate: '2025-09-10',
