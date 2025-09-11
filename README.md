@@ -5,6 +5,7 @@ Example of listing releases from multiple GitHub repositories.
 - [Live demo](https://nuxt-changelog.vercel.app/)
 - [Nuxt UI Changelog Template](https://github.com/nuxt-ui-templates/changelog)
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fatinux%2Fnuxt-changelog)
 
 ## Setup
 
