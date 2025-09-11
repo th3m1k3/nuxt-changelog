@@ -31,7 +31,7 @@ export default defineNuxtConfig({
     '/': { isr: 60 }
   },
 
-  compatibilityDate: '2025-09-10',
+  compatibilityDate: '2025-06-01',
 
   eslint: {
     config: {
